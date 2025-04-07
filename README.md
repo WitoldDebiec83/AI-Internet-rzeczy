@@ -1,1 +1,1 @@
-# AI-Internet-rzeczy
+# AI-Internet-rzeczy wg skanu zdjęcia. 
